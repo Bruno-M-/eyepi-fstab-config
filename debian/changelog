@@ -1,3 +1,9 @@
+eyepi-fstab-config (1.2) unstable; urgency=medium
+
+  * fstab file is preferred with systemd
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Thu, 05 Mar 2015 03:50:37 +0100
+
 eyepi-fstab-config (1.1) unstable; urgency=medium
 
   * Switch to unstable.
