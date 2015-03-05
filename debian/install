@@ -1,2 +1,1 @@
-00_proc.fstab 	etc/fstab.d/
-10_rootfs.fstab etc/fstab.d/
+fstab 	etc
